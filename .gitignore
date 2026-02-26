@@ -1,2 +1,4 @@
 /resources
-*.bkp
+*.drawio.bkp
+*.log
+*.tmp
